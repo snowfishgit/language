@@ -50,7 +50,7 @@ moot.language = {
   upgrade_admin: 'to make this user administrator or moderator',
 
   my_profile: 'My profile',
-  post_in: 'Post in',
+  post_in: 'Veröffentliche in',
   address_now: 'Thank you! Your email address has been confirmed.',
   open_pw: 'Please hit the button below to open a password change dialog',
   non_anon: 'You need to be logged in to perform this action',
@@ -183,7 +183,7 @@ moot.language = {
   notexist: 'ist nicht vorhanden.',
   ok: 'ok',
   online: 'Online',
-  post: 'Antworten',
+  post: 'Veröffentlichen',
   preview: 'Vorschau',
   progress: ['lade...', 'arbeite noch dran...', 'und arbeite weiter...', 'gebe auf'],
   reconnect: 'Neu verbinden ...',
